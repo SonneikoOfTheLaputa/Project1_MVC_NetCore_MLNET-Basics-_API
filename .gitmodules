@@ -1,0 +1,9 @@
+[submodule "UserManagement_RESTAPI"]
+	path = UserManagement_RESTAPI
+	url = https://github.com/SonneikooftheLaputa/UserManagement_RESTAPI.git
+[submodule "WeatherSpark"]
+	path = WeatherSpark
+	url = https://github.com/SonneikooftheLaputa/WeatherSpark.git
+[submodule "ML_Weather"]
+	path = ML_Weather
+	url = https://github.com/SonneikooftheLaputa/ML_Weather.git
